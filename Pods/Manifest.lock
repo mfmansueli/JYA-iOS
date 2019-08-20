@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.8.2)
+  - IGListKit (3.4.0):
+    - IGListKit/Default (= 3.4.0)
+  - IGListKit/Default (3.4.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.4.0)
+  - Kingfisher (5.4.0)
+  - ObjectMapper (3.4.2)
+  - RxAlamofire (4.4.1):
+    - RxAlamofire/Core (= 4.4.1)
+  - RxAlamofire/Core (4.4.1):
+    - Alamofire (~> 4.8)
+    - RxSwift (~> 4.5)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+  - RxTest (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - Swinject (2.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IGListKit
+  - Kingfisher
+  - ObjectMapper
+  - RxAlamofire
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - RxTest
+  - Swinject
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IGListKit
+    - Kingfisher
+    - ObjectMapper
+    - RxAlamofire
+    - RxCocoa
+    - RxSwift
+    - RxTest
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  IGListKit: 7a5d788e9fb746bcd402baa8e8b24bc3bd2a5a07
+  Kingfisher: 9c8f2cc6710334e06f32ba2b45e77707d5e2f0c9
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  RxAlamofire: ed65f451f5a9a59419b0b9e705043dc01410edd9
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  RxTest: 3ccb66bfbace0bf7df1c43a7c75d046f8ce60372
+  Swinject: 48a96cda93633cf2860697b4ce76ab5db9ebaca2
+
+PODFILE CHECKSUM: 61029bef8d53da7faab0f030cf4c9b2b4db281ff
+
+COCOAPODS: 1.6.1

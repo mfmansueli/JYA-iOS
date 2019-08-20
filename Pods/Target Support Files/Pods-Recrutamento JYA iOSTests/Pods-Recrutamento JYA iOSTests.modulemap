@@ -1,0 +1,6 @@
+framework module Pods_Recrutamento_JYA_iOSTests {
+  umbrella header "Pods-Recrutamento JYA iOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
